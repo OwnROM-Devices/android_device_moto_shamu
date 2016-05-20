@@ -7,7 +7,7 @@
 	},
 	{
     "repository": "proprietary_vendor_motorola",
-	   "target_path": "vendor/lge",
+	   "target_path": "vendor/motorola",
 	   "remote": "tm",
 	   "revision": "cm-13.0"
 	}
