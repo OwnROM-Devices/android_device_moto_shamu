@@ -6,7 +6,7 @@
 	   "revision": "cm-13.0"
 	},
 	{
-    "repository": "proprietary_vendor_moto",
+    "repository": "proprietary_vendor_motorola",
 	   "target_path": "vendor/lge",
 	   "remote": "tm",
 	   "revision": "cm-13.0"
